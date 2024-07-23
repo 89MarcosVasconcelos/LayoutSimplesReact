@@ -1,8 +1,8 @@
 # ExemplosSimplesNodeJs
-Exemplo simples de aplicação visual de nodejs 
-Props
-Use States
-Style-components
+Exemplo simples de aplicação visual de nodejs <br />
+Props <br />
+Use States <br />
+Style-components <br />
 
 
 Comandos de instalação inicial
